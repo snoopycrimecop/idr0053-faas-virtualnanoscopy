@@ -1,8 +1,5 @@
-Dataset:name:fig1	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig1/fig1a.tif
-Dataset:name:fig1	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig1/fig1.tif
-Dataset:name:fig5	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig5/fig5.tif
-Dataset:name:fig5	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig5/components/rcm.tif
-Dataset:name:fig5	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig5/components/tem.tif
-Dataset:name:fig6	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig6/fig6.tif
-Dataset:name:fig6	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig6/components/els_green.tif
-Dataset:name:fig6	/nfs/bioimage/drop/idrXXXX-faas/20181128-ftp/figures_jcb_submission_faas_et_al/fig6/components/els_stitch.tif
+Dataset:name:fig1	/uod/idr/filesets/idr0053-faas-virtualnanoscopy/20181128-ftp/figures_jcb_submission_faas_et_al/fig1/fig1a.tif
+Dataset:name:fig1	/uod/idr/filesets/idr0053-faas-virtualnanoscopy/20181128-ftp/figures_jcb_submission_faas_et_al/fig1/fig1.tif
+Dataset:name:fig4	/uod/idr/filesets/idr0053-faas-virtualnanoscopy/20181128-ftp/Faas-Ravelli_Figure_4/MEFS_cryo.tif
+Dataset:name:fig5	/tmp/idr0053-faas-virtualnanoscopy/experimentA/pattern/fig5.pattern
+Dataset:name:fig6	/tmp/idr0053-faas-virtualnanoscopy/experimentA/pattern/fig6.pattern
