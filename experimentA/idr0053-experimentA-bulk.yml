@@ -7,4 +7,5 @@ output: "yaml"
 path: "idr0053-experimentA-filePaths.tsv"
 columns:
   - target
+  - name
   - path
