@@ -1,6 +1,6 @@
 Dataset Name,Image Name,Characteristics [Organism]
-fig1,fig1.tif,Danio rerio
-fig1,fig1a.tif,Danio rerio
-fig4,MEFS_cryo.tif,Danio rerio
-fig5,fig5.tif,Danio rerio
-fig6,fig6.tif,Danio rerio
+Zebrafish Embryo,Sagittal section color,Danio rerio
+Zebrafish Embryo,Sagittal section,Danio rerio
+Mouse Fibroblast,Unstained,Mus musculus
+Mouse Glomerulus,DAB precip,Mus musculus
+Human Dendritic,Immunogold,Homo sapiens
