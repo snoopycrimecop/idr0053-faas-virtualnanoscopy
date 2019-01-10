@@ -6,9 +6,9 @@ Study Type	high resolution electron microscopy
 Study Type Term Source REF				
 Study Type Term Accession				
 Study Description	A key obstacle in uncovering the orchestration between molecular and cellular events is the vastly different length scales on which they occur. We describe here a methodology for ultrastructurally mapping regions of cells and tissue as large as 1 mm(2) at nanometer resolution. Our approach employs standard transmission electron microscopy, rapid automated data collection, and stitching to create large virtual slides. It greatly facilitates correlative light-electron microscopy studies to relate structure and function and provides a genuine representation of ultrastructural events. The method is scalable as illustrated by slides up to 281 gigapixels in size. Here, we applied virtual nanoscopy in a correlative light-electron microscopy study to address the role of the endothelial glycocalyx in protein leakage over the glomerular filtration barrier, in an immunogold labeling study of internalization of oncolytic reovirus in human dendritic cells, in a cryo-electron microscopy study of intact vitrified mouse embryonic cells, and in an ultrastructural mapping of a complete zebrafish embryo slice.		 	
-Study Organism	Danio rerio, Mus musculus, Homo sapiens			
+Study Organism	Danio rerio	Mus musculus	Homo sapiens	
 Study Organism Term Source REF	NCBITaxon			
-Study Organism Term Accession	7955, 10090, 9606			
+Study Organism Term Accession	7955	10090	9606	
 Study Experiments Number	1			
 Study External URL				
 Study Public Release Date				
@@ -29,11 +29,11 @@ Study Person ORCID
 Study Person Roles				
 				
 # Study License and Data DOI				
-Study License	CC-BY 4.0			
-Study License URL	https://creativecommons.org/licenses/by/4.0/			
+Study License	CC-BY-NC-SA			
+Study License URL	https://creativecommons.org/licenses/by-nc-sa/3.0/			
 Study Copyright	Faas et al.			
 Study Data Publisher	University of Dundee			
-Study Data DOI				
+Study Data DOI	https://dx.doi.org/10.1083/jcb.201201140.dv			
 				
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/
