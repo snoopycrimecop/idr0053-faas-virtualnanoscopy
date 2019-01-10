@@ -21,6 +21,12 @@ defaults:
 
 columns:
 
+  - name: Material Type
+    clientname: Material Type
+    include: yes
+  - name: Image File Comments
+    clientname: Comments
+    include: yes
 
   ######################################################################
   # mapr groups
