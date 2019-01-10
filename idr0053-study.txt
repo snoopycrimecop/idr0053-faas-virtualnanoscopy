@@ -21,9 +21,9 @@ Study PMC ID	PMC3413355
 Study DOI	https://dx.doi.org/10.1083/jcb.201201140			
 				
 # Study Contacts				
-Study Person Last Name	Faas			
-Study Person First Name	Frank			
-Study Person Email				
+Study Person Last Name	Ravelli			
+Study Person First Name	Raimond			
+Study Person Email	raimond.nl@gmail.com			
 Study Person Address				
 Study Person ORCID				
 Study Person Roles				
