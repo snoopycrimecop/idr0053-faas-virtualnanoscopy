@@ -1,7 +1,7 @@
 # STUDY DESCRIPTION SECTION				
 				
 Comment[IDR Study Accession]	idr0053			
-Study Title	Virtual nanoscopy: Generation of ultra-large high resolution electron microscopy maps			
+Study Title	Virtual nanoscopy of the mouse glomerulus, mouse embryonic fibroblasts, human dendritic cells and a zebrafish embryo slice.		
 Study Type	high resolution electron microscopy			
 Study Type Term Source REF				
 Study Type Term Accession				
@@ -21,9 +21,9 @@ Study PMC ID	PMC3413355
 Study DOI	https://dx.doi.org/10.1083/jcb.201201140			
 				
 # Study Contacts				
-Study Person Last Name	Faas			
-Study Person First Name	Frank			
-Study Person Email				
+Study Person Last Name	Ravelli			
+Study Person First Name	Raimond			
+Study Person Email	raimond.nl@gmail.com			
 Study Person Address				
 Study Person ORCID				
 Study Person Roles				
@@ -43,12 +43,12 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 				
 Experiment Number	1			
 Comment[IDR Experiment Name]	idr0053-faas-virtualnanoscopy/experimentA			
-Experiment Description				
+Experiment Description		Ultra-large high resolution electron microscopy maps of the mouse glomerulus, mouse embryonic fibroblasts, human dendritic cells and a zebrafish embryo slice were generated using virtual nanoscopy. 		
 Experiment Size			Total Tb: 	
 Experiment Example Images				
-Experiment Imaging Method				
+Experiment Imaging Method	Transmission electron microscopy			
 Experiment Imaging Method Term Source REF	Fbbi			
-Experiment Imaging Method Term Accession				
+Experiment Imaging Method Term Accession	FBbi:00000258			
 Experiment Comments				
 				
 # assay files				
