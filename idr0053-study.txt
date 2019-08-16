@@ -15,8 +15,8 @@ Study Public Release Date	2019-01-16
 				
 # Study Publication				
 Study PubMed ID	22869601			
-Study Publication Title	Virtual nanoscopy: Generation of ultra-large high resolution electron microscopy maps			
-Study Author List	Frank G.A. Faas, M. Cristina Avramut, Bernard M. van den Berg, A. Mieke Mommaas, Abraham J. Koster, Raimond B.G. Ravelli			
+Study Publication Title	Virtual nanoscopy: generation of ultra-large high resolution electron microscopy maps.			
+Study Author List	Faas FG, Avramut MC, van den Berg BM, Mommaas AM, Koster AJ, Ravelli RB			
 Study PMC ID	PMC3413355 			
 Study DOI	https://dx.doi.org/10.1083/jcb.201201140			
 				
